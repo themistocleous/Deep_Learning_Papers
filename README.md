@@ -4,7 +4,7 @@ The collection is best viewed with BibDesk, as in this way you will be able to s
 
 
 
-## Deep Learning -  Brain
+## Brain
 
 Brown, S., Laird, A. R., Pfordresher, P. Q., Thelen, S. M., Turkeltaub, P., & Liotti, M. (2009). The somatotopy of speech: Phonation and articulation in the human motor cortex. Brain and Cognition, 70(1), 31--41. doi:10.1016/j.bandc.2008.12.006
 
