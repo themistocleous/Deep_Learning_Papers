@@ -6,8 +6,6 @@ The collection is best viewed with BibDesk, as in this way you will be able to s
 
 ## Deep Learning -  Brain
 
-Angelopoulou, G., Kasselimis, D., Varkanitsa, M., Fotiadis, P., Themistocleous, C., Tsolakopoulos, D., . . . Potagas, C. (submitted). Effects of cortical thickness on pause duration in neurotypical adults' speech: Evidence for the role of the left middle temporal gyrus in lexical retrieval.
-
 Brown, S., Laird, A. R., Pfordresher, P. Q., Thelen, S. M., Turkeltaub, P., & Liotti, M. (2009). The somatotopy of speech: Phonation and articulation in the human motor cortex. Brain and Cognition, 70(1), 31--41. doi:10.1016/j.bandc.2008.12.006
 
 Christiansen, M. H., & Chater, N. (2008). Language as shaped by the brain. Behavioral and Brain Sciences, 31(5), 489--509. doi:10.1017/S0140525X08004998
