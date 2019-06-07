@@ -1,6 +1,8 @@
 # Deep Learning - Selected Papers
 
-The collection is best viewed with BibDesk, as in this way you will be able to see the categories of the papers (but any reference application can used to open the library).
+The collection is best viewed with BibDesk, as in this way you will be able to see the categories of the papers (but any reference application can used to open the library). 
+
+- This repository is falling behind I will try to update it soon with the latest papers I am reading. 
 
 
 
@@ -61,6 +63,7 @@ Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G.
 
 
 ## Deep Learning -  General Intelligence
+Qi, F. and Wu, W. (2019). Human-like machine thinking: Language guided imagination. arXiv preprint arXiv:1905.07562.
 
 Baroni, M., Joulin, A., Jabri, A., Kruszewski, G., Lazaridou, A., Simonic, K., & Mikolov, T. (2017). CommAI: Evaluating the first steps towards a useful general AI.
 
