@@ -2,7 +2,7 @@
 
 The collection is best viewed with BibDesk, as in this way you will be able to see the categories of the papers (but any reference application can used to open the library). 
 
-- This repository is falling behind I will try to update it soon with the latest papers I am reading. 
+
 
 
 
